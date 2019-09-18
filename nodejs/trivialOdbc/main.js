@@ -1,3 +1,4 @@
+// This simple program access the database via ODBC
 const odbc = require('odbc');
 
 async function test() {
